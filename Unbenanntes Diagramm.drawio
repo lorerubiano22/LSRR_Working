@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.8.3">
   <diagram name="Seite-1" id="4qPFMpWYrZXkH0cgYJul">
-    <mxGraphModel dx="690" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="930" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,10 +246,10 @@
         <mxCell id="aP6iwZflRNog6oREVvGN-60" value="Material recovery rate" style="whiteSpace=wrap;html=1;strokeColor=#00CC00;rounded=0;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="760" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aP6iwZflRNog6oREVvGN-67" value="Level 1: Government and regulatory bodies, manufactures" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="aP6iwZflRNog6oREVvGN-67" value="Upper level: Government and regulatory bodies" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="183.5" y="600" width="515" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aP6iwZflRNog6oREVvGN-68" value="Level 2: Manufactures, distributors/retailers, recyclers, customers/consumers" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="aP6iwZflRNog6oREVvGN-68" value="Lower level: Manufactures, distributors/retailers, recyclers, customers/consumers" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="709.25" y="585" width="410.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aP6iwZflRNog6oREVvGN-73" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC00;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
