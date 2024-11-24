@@ -576,10 +576,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="npQmPF_PBS00p2lG_tfn" name="Organization">
-    <mxGraphModel dx="556" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VjunTz62bkJil2AOEGzv-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font&gt;Supervisory board (SB)&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Chair: &lt;/b&gt;Prof. Mónica Oliveira&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Members: &lt;/b&gt;all partners&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Role:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Oversee the implementation of the project.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Approve key decisions related to research, training, and dissemination. Monitor progress and ensure alignment with project objectives.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Decision making:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;Decisions made by a simple majority vote. In case of a tie, the chairperson casts the deciding vote. Conflict resolution follows escalation steps outlined in the consortium agreement.&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="470" height="320" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
