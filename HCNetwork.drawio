@@ -611,7 +611,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ashlxsR9zXIjlkMir-LX" name="Organization_2">
-    <mxGraphModel dx="2300" dy="2769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1144" dy="2540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -633,19 +633,24 @@
           <mxGeometry x="2570" y="-80" width="650" height="260" as="geometry" />
         </mxCell>
         <mxCell id="G2aAQ9abuFfpqIDaK0h1-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font&gt;Doctoral candidates committee (DCC)&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Chair: &lt;/b&gt;Prof. Martha Cildoz&lt;br&gt;&lt;b&gt;Members:&amp;nbsp;&lt;/b&gt;One elected representative from each WP.&lt;br&gt;&lt;b&gt;Role:&amp;nbsp;&lt;/b&gt;Represent the interests of doctoral candidates in decision-making processes. Provide feedback on training and supervision.&lt;br&gt;&lt;b&gt;Decision making:&amp;nbsp;&lt;/b&gt;Decisions made by majority vote within the committee. Recommendations submitted to the SB for final approval.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="580" y="1880" width="630" height="300" as="geometry" />
+          <mxGeometry x="4420" y="-220" width="670" height="300" as="geometry" />
         </mxCell>
         <mxCell id="G2aAQ9abuFfpqIDaK0h1-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font&gt;Training program committee&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Chair: &lt;/b&gt;Prof. Fermin Mallor&lt;br&gt;&lt;b&gt;Members: &lt;/b&gt;all partners&lt;br&gt;&lt;b&gt;Role:&amp;nbsp;&lt;/b&gt;Oversee doctoral training activities, ensure quality standards, and address ethical issues.&lt;br&gt;&lt;b&gt;Decision making:&amp;nbsp;&lt;/b&gt;2/3 majority vote for significant decisions.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="960" y="860" width="680" height="210" as="geometry" />
+          <mxGeometry x="3490" y="-584" width="680" height="210" as="geometry" />
         </mxCell>
         <mxCell id="G2aAQ9abuFfpqIDaK0h1-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font&gt;Engagement committee&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Chair:&amp;nbsp;&lt;/b&gt;Prof. Mónica Oliveira&lt;br&gt;&lt;b&gt;Members:&amp;nbsp;&lt;/b&gt;&lt;font&gt;At least two supervisors: one from an academic institution and one from a non-academic partner&lt;/font&gt;&lt;br&gt;&lt;b&gt;Role:&amp;nbsp;&lt;/b&gt;Manage communication strategies, public engagement, and promotion of equality and diversity.&lt;br&gt;&lt;b&gt;Decision making:&amp;nbsp;&lt;/b&gt;Consensus-based.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="1780" width="620" height="240" as="geometry" />
+          <mxGeometry x="3500" y="391" width="660" height="240" as="geometry" />
         </mxCell>
         <mxCell id="G2aAQ9abuFfpqIDaK0h1-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font&gt;Research coordination&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Chair: &lt;/b&gt;Prof. Edgar Alfonso-Lizarazo&lt;br&gt;&lt;b&gt;Members:&amp;nbsp;&lt;/b&gt;&lt;font&gt;All supervisors and non-academic partners involved with ethical committees&lt;/font&gt;&lt;br&gt;&lt;b&gt;Role:&amp;nbsp;&lt;/b&gt;Ensure integration of research activities across WPs, aligning outputs with project goals.&lt;br&gt;&lt;b&gt;Decision making:&amp;nbsp;&lt;/b&gt;Decisions made by consensus; unresolved matters referred to the SB.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2560" y="1630" width="620" height="260" as="geometry" />
+          <mxGeometry x="3500" y="56" width="690" height="260" as="geometry" />
         </mxCell>
         <mxCell id="G2aAQ9abuFfpqIDaK0h1-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font&gt;Dissemination and result explotation committee&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Chair: &lt;/b&gt;Prof. Daniela Guericke&lt;br&gt;&lt;b&gt;Members: &lt;/b&gt;All supervisors and at least one member of the DCC&lt;br&gt;&lt;b&gt;Role:&amp;nbsp;&lt;/b&gt;Oversee dissemination activities, manage intellectual property, and ensure results exploitation.&lt;br&gt;&lt;b&gt;Decision making:&amp;nbsp;&lt;/b&gt;2/3 majority required for decisions involving intellectual property.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="3240" y="1310" width="620" height="300" as="geometry" />
+          <mxGeometry x="3500" y="-304" width="680" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="G2aAQ9abuFfpqIDaK0h1-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="G2aAQ9abuFfpqIDaK0h1-3" target="G2aAQ9abuFfpqIDaK0h1-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3520" y="-365" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="G2aAQ9abuFfpqIDaK0h1-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font&gt;Gender and diversity committee&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Chair: &lt;/b&gt;Prof. Sebastian Rachuba&lt;br&gt;&lt;b&gt;Members: &lt;/b&gt;All partners, at least one member of the DCC, and at least 50% female members to ensure gender balance.&amp;nbsp;&lt;br&gt;&lt;b&gt;Role:&amp;nbsp;&lt;/b&gt;Monitor and promote gender balance and diversity across all project activities. Guide integrating gender dimensions into research methodologies. Ensure inclusive practices in recruitment, training, and supervision of doctoral candidates. Collaborate with other committees to ensure diversity is reflected in dissemination and public engagement.&lt;br&gt;&lt;b&gt;Decision making:&amp;nbsp;&lt;/b&gt;Decisions made by consensus. Recommendations submitted to the Supervisory Board for approval.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="2570" y="-550" width="620" height="370" as="geometry" />
@@ -654,6 +659,76 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1590" y="550" as="sourcePoint" />
             <mxPoint x="2170" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G2aAQ9abuFfpqIDaK0h1-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3187" y="-365" as="sourcePoint" />
+            <mxPoint x="3487" y="-479" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3357" y="-365" />
+              <mxPoint x="3357" y="-479" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G2aAQ9abuFfpqIDaK0h1-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3188" y="-365" as="sourcePoint" />
+            <mxPoint x="3498" y="-154" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3358" y="-365" />
+              <mxPoint x="3358" y="-154" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G2aAQ9abuFfpqIDaK0h1-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3217" y="50" as="sourcePoint" />
+            <mxPoint x="3497" y="511" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3356" y="51" />
+              <mxPoint x="3356" y="511" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G2aAQ9abuFfpqIDaK0h1-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3216" y="50" as="sourcePoint" />
+            <mxPoint x="3496" y="186" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3356" y="50" />
+              <mxPoint x="3356" y="186" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G2aAQ9abuFfpqIDaK0h1-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="G2aAQ9abuFfpqIDaK0h1-5" target="G2aAQ9abuFfpqIDaK0h1-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3198" y="-355" as="sourcePoint" />
+            <mxPoint x="3508" y="-144" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4360" y="-479" />
+              <mxPoint x="4360" y="-70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G2aAQ9abuFfpqIDaK0h1-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="G2aAQ9abuFfpqIDaK0h1-7" target="G2aAQ9abuFfpqIDaK0h1-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4180" y="-469" as="sourcePoint" />
+            <mxPoint x="4430" y="-60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4360" y="186" />
+              <mxPoint x="4360" y="-70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G2aAQ9abuFfpqIDaK0h1-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="G2aAQ9abuFfpqIDaK0h1-6" target="G2aAQ9abuFfpqIDaK0h1-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4200" y="196" as="sourcePoint" />
+            <mxPoint x="4430" y="-60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4360" y="511" />
+              <mxPoint x="4360" y="-70" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
