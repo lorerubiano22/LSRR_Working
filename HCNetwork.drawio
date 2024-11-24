@@ -576,7 +576,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="npQmPF_PBS00p2lG_tfn" name="Organization">
-    <mxGraphModel dx="690" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1380" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -603,6 +603,9 @@
         </mxCell>
         <mxCell id="VjunTz62bkJil2AOEGzv-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font&gt;Dissemination and result explotation committee&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Chair:&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;b&gt;Members: &lt;/b&gt;All supervisors and at least one member of the DCC&lt;br&gt;&lt;b&gt;Role:&amp;nbsp;&lt;/b&gt;Oversee dissemination activities, manage IP, and ensure results exploitation.&lt;br&gt;&lt;b&gt;Decision making:&amp;nbsp;&lt;/b&gt;2/3 majority required for decisions involving intellectual property.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="210" y="2220" width="620" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VjunTz62bkJil2AOEGzv-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font&gt;Gender and diversity committee&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Chair:&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;b&gt;Members: &lt;/b&gt;All partners, at least one member of the DCC, and at least 50% female members to ensure gender balance.&amp;nbsp;&lt;br&gt;&lt;b&gt;Role:&amp;nbsp;&lt;/b&gt;Monitor and promote gender balance and diversity across all project activities. Guide integrating gender dimensions into research methodologies. Ensure inclusive practices in recruitment, training, and supervision of doctoral candidates. Collaborate with other committees to ensure diversity is reflected in dissemination and public engagement.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Decision making:&amp;nbsp;&lt;/b&gt;Decisions made by consensus. Recommendations submitted to the Supervisory Board for approval.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="205" y="2650" width="620" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
