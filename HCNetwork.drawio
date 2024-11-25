@@ -611,7 +611,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ashlxsR9zXIjlkMir-LX" name="Organization_2">
-    <mxGraphModel dx="2644" dy="2520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5421" dy="3601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -767,7 +767,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G2aAQ9abuFfpqIDaK0h1-52" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font&gt;Supervisory board (SB)&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Chair: &lt;/b&gt;Prof. Inês Marques&lt;br&gt;&lt;b&gt;Members: &lt;/b&gt;all supervisors, co-supervisors, and PC&lt;br&gt;&lt;b&gt;Role:&amp;nbsp;&lt;/b&gt;Oversee the implementation of the project.&amp;nbsp;Approve key decisions related to research, training, and dissemination. Monitor progress and ensure alignment with project objectives.&lt;br&gt;&lt;b&gt;Decision making:&amp;nbsp;&lt;/b&gt;&lt;font&gt;Decisions made by a simple majority should escalate unresolved issues to the PMT&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=34;fillColor=#FFFFCC;strokeColor=#CCCC00;strokeWidth=12;" parent="1" vertex="1">
-          <mxGeometry x="2490" y="2150" width="790" height="560" as="geometry" />
+          <mxGeometry x="2490" y="2150" width="790" height="500" as="geometry" />
         </mxCell>
         <mxCell id="G2aAQ9abuFfpqIDaK0h1-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font&gt;Doctoral candidates committee (DCC)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font&gt;&lt;b&gt;Chair:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;font&gt;&lt;span&gt;2&lt;/span&gt;&lt;font&gt; DCs as DCC representatives and Prof. Ettore Lanzarone as the primary contact.&lt;/font&gt;&lt;br&gt;&lt;b&gt;Members: &lt;/b&gt;All DCs&lt;/font&gt;&lt;br&gt;&lt;b&gt;Role:&amp;nbsp;&lt;/b&gt;&lt;span&gt;Represent the interests of doctoral candidates in decision-making processes. Provide feedback on training and supervision.&lt;/span&gt;&lt;br&gt;&lt;b&gt;Decision-making: &lt;/b&gt;&lt;span&gt;Decisions are made by a majority vote within the committee. Recommendations are submitted to the SB for final approval.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=34;fillColor=#E6FFCC;strokeColor=#99FF99;strokeWidth=16;" parent="1" vertex="1">
           <mxGeometry x="4210" y="1711" width="660" height="710" as="geometry" />
@@ -830,7 +830,7 @@
             <mxPoint x="2396" y="2170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2aAQ9abuFfpqIDaK0h1-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="G2aAQ9abuFfpqIDaK0h1-62" target="G2aAQ9abuFfpqIDaK0h1-52" edge="1">
+        <mxCell id="G2aAQ9abuFfpqIDaK0h1-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G2aAQ9abuFfpqIDaK0h1-62" target="G2aAQ9abuFfpqIDaK0h1-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1950" y="3005" as="sourcePoint" />
             <mxPoint x="2244" y="2600" as="targetPoint" />
