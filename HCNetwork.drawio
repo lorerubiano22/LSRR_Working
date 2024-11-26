@@ -632,7 +632,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ashlxsR9zXIjlkMir-LX" name="Organization_2">
-    <mxGraphModel dx="2777" dy="2385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2297" dy="2385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -835,7 +835,7 @@
         <mxCell id="S7RadHlyArfCYnG6EilV-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=7;" parent="1" source="G2aAQ9abuFfpqIDaK0h1-63" target="G2aAQ9abuFfpqIDaK0h1-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G2aAQ9abuFfpqIDaK0h1-63" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font&gt;Gender and diversity committee (GDC)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Chair: &lt;/b&gt;Prof. Sebastian Rachuba&lt;br&gt;&lt;b&gt;Members:&amp;nbsp;&lt;/b&gt;&lt;font face=&quot;Helvetica&quot;&gt;4 representatives of the SB, co-supervisors, and two DCs as DCC representatives, ensuring at least 50% women for gender balance.&lt;br&gt;&lt;b&gt;Role:&amp;nbsp;&lt;/b&gt;Monitor and promote gender balanc&lt;/font&gt;e and diversity across all project activities—guide integrating gender dimensions into research methodologies. Ensure inclusive practices in recruitment, training, and supervision of doctoral candidates. Collaborate with other committees to ensure diversity is reflected in dissemination and public engagement.&lt;br&gt;&lt;b&gt;Decision making:&amp;nbsp;&lt;/b&gt;Decisions made by consensus. Recommendations submitted to the Supervisory Board for approval.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=34;strokeColor=#004C99;strokeWidth=12;fillColor=#99CCFF;" parent="1" vertex="1">
+        <mxCell id="G2aAQ9abuFfpqIDaK0h1-63" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font&gt;Gender and diversity committee (GDC)&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Chair: &lt;/b&gt;Prof. Sebastian Rachuba&lt;br&gt;&lt;b&gt;Members:&amp;nbsp;&lt;/b&gt;&lt;font face=&quot;Helvetica&quot;&gt;4 representatives of the SB, co-supervisors, 2 DCs as DCC representatives, ensuring at least 50% women for gender balance.&lt;br&gt;&lt;b&gt;Role:&amp;nbsp;&lt;/b&gt;Monitor and promote gender balanc&lt;/font&gt;e and diversity across all project activities integrating gender dimensions into research methodologies. Ensure inclusive practices in recruitment, training, and supervision of DCs. Collaborate with other committees to ensure diversity is reflected in DREC &amp;amp; EnC.&lt;br&gt;&lt;b&gt;Decision making: &lt;/b&gt;Consensus. Recommendations submitted to the Supervisory Board for approval.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=34;strokeColor=#004C99;strokeWidth=12;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="2490" y="1280" width="790" height="820" as="geometry" />
         </mxCell>
         <mxCell id="G2aAQ9abuFfpqIDaK0h1-68" value="" style="group;fontSize=6;" parent="1" vertex="1" connectable="0">
