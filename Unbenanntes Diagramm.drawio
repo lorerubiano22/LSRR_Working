@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="25.0.1">
   <diagram name="Seite-1" id="4qPFMpWYrZXkH0cgYJul">
-    <mxGraphModel dx="690" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1150" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,8 +149,8 @@
         <mxCell id="aP6iwZflRNog6oREVvGN-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="aP6iwZflRNog6oREVvGN-41" target="aP6iwZflRNog6oREVvGN-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aP6iwZflRNog6oREVvGN-41" value="Instruments&lt;div style=&quot;font-size: 14px;&quot;&gt;(Upper level)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="292" y="660" width="96" height="40" as="geometry" />
+        <mxCell id="aP6iwZflRNog6oREVvGN-41" value="Strategies (incentives)- Upper level" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="255" y="640" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aP6iwZflRNog6oREVvGN-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="aP6iwZflRNog6oREVvGN-42" target="aP6iwZflRNog6oREVvGN-43" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -190,8 +190,8 @@
             <mxPoint x="778" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aP6iwZflRNog6oREVvGN-48" value="Strategies (incentives)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="980" y="640" width="96" height="40" as="geometry" />
+        <mxCell id="aP6iwZflRNog6oREVvGN-48" value="Strategies (incentives)- Lower level" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="953" y="639" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aP6iwZflRNog6oREVvGN-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.103;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="aP6iwZflRNog6oREVvGN-49" target="aP6iwZflRNog6oREVvGN-65" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -217,16 +217,18 @@
         <mxCell id="aP6iwZflRNog6oREVvGN-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="aP6iwZflRNog6oREVvGN-52" target="aP6iwZflRNog6oREVvGN-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aP6iwZflRNog6oREVvGN-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="aP6iwZflRNog6oREVvGN-52" target="aP6iwZflRNog6oREVvGN-60" edge="1">
+        <mxCell id="aP6iwZflRNog6oREVvGN-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="935" y="760" />
-              <mxPoint x="850" y="760" />
+              <mxPoint x="935" y="765" />
+              <mxPoint x="850" y="765" />
             </Array>
+            <mxPoint x="935" y="745" as="sourcePoint" />
+            <mxPoint x="850" y="785" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aP6iwZflRNog6oREVvGN-52" value="&lt;p style=&quot;font-size: 14px;&quot;&gt;Historical data on the disposal of WEEE&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CC00;strokeWidth=2;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="867" y="690" width="136" height="40" as="geometry" />
+          <mxGeometry x="867" y="700" width="136" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aP6iwZflRNog6oREVvGN-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="aP6iwZflRNog6oREVvGN-56" target="aP6iwZflRNog6oREVvGN-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -244,7 +246,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aP6iwZflRNog6oREVvGN-60" value="Material recovery rate" style="whiteSpace=wrap;html=1;strokeColor=#00CC00;rounded=0;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="760" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="786" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aP6iwZflRNog6oREVvGN-67" value="Upper level: Government and regulatory bodies" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="183.5" y="600" width="515" height="30" as="geometry" />
