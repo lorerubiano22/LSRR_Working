@@ -199,7 +199,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I5uU8x75WuUFm9Wus-JH-106" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+        <mxCell id="I5uU8x75WuUFm9Wus-JH-106" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);startSize=30;" vertex="1" parent="1">
           <mxGeometry x="-190" y="470" width="780" height="150" as="geometry" />
         </mxCell>
       </root>
